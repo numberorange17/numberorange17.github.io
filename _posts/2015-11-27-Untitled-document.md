@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: First Post
 layout: post
 author: thomas.allen2
 permalink: /untitled-document/
