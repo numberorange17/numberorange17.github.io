@@ -12,7 +12,7 @@ description: likes football
 avatar: http://findicons.com/files/icons/1072/face_avatars/300/a05.png
 
 # Storage of post images and assets
-post_assets:images
+post_assets: images
 general_assets: images
 
 # Includes an icon in the footer for each username you enter
