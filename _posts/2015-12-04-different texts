@@ -1,0 +1,45 @@
+---
+title: Different texts
+layout: post
+author: thomas.allen2
+permalink: /untitled-document/
+source-id: 1K3af__r-cm6a37UVR35O2hri8zdTATSvTnmS95Y_9xc
+published: true
+---
+**_DIFFERENT TEXTS_**
+
+*italic text*
+
+**_bold text and italic_**
+
+**_All of them_**
+
+**bold text**
+
+**normal**
+
+<table>
+  <tr>
+    <td>This</td>
+    <td>is</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>text</td>
+    <td>of</td>
+    <td>a</td>
+  </tr>
+  <tr>
+    <td>normal </td>
+    <td>table</td>
+    <td>layout</td>
+  </tr>
+</table>
+
+
+!!!!!!!!!!
+
+![image alt text]({{ site.url }}/images/oUMjVaEW1Sb1JyZ8RtkMuQ_img_0.png)
+
+let's see what happens!  !!!!! !!!! 
+
