@@ -22,7 +22,7 @@ body {
   background-attachment: fixed;	
   background-repeat: no-repeat;	
   font: 18px/1.4 $helvetica;
-  color: $darkerGrey;
+  color: $#ffffff;
 }
 ;
 .container {
@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $ffffff;
   font-weight: bold;
 
   line-height: 1.7;
@@ -63,7 +63,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $#ffffff;
 }
 
 p {
@@ -71,11 +71,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $#ffffff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $#ffffff;
   }
 }
 
