@@ -20,3 +20,9 @@ Next lesson, I hope I can include everything required, along with understanding 
 
 Next lesson is the last lesson on sheets, this means there will be a difficult climax, within which I hope to complete the work efficiently and correctly.
 
+<br>
+<br>
+
+<h2> My Spreadsheet </h2>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSp5LTKMkv6WWYVd4KrsoDNF5bW2VjBQvX9G4VfqV1extRlOQssLnePg0O-DMaR_ij25erl67q40jt/pubhtml?widget=true&amp;headers=false"></iframe>
