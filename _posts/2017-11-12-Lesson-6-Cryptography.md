@@ -11,8 +11,7 @@ Lesson 6 Cryptography
 Today we looked at cryptography, which is basically language that you are basically personalising by turning it into code
 
 e.g : Original: STAR
-
-        Cryptography: TUBS
+      Cryptography: TUBS
 
 This is because we are moving the alphabet to the right one space.
 
