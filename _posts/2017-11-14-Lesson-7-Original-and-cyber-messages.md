@@ -6,7 +6,7 @@ permalink: /lesson-7-original-and-cyber-messages/
 source-id: 1xj_3rF5NKYtAjAaNbYl3t55t6zTwgbjqyy2KLvbDpGY
 published: true
 ---
-Lesson 7 Original and cyber messages
+Lesson 7 Original and Cyber messages
 
 13/11/17
 
