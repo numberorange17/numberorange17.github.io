@@ -16,3 +16,9 @@ In over 10 weeks I will do python. For that I hope I take notes on what to do be
 
 My work:
 
+<br>
+<br>
+
+<h2> My Spredsheet </h2>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSt4m5TzcZUXhUb9-Qm9rL3hq-qcM0zdz6Tpw3-P6b6I2CyO3bbKMD16KeV2Xnrb5SL30RELPxJH315/pub?embedded=true"></iframe>
