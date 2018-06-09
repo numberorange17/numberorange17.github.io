@@ -6,7 +6,7 @@ permalink: /lesson-9-new-half-term/
 source-id: 1MN6Rsndbd8Jte6cTN62z-ssLROc8eTu_zs9guhEDS_w
 published: true
 ---
-In this lesson we were in a new class for the first time in just less than 2 year. I am now in a new class with people that have not yet completed their quizzes, therefore we all added improvements. For example: Mine does not accept it if you put the wrong string in and then it comes up with a string telling you to try again. 
+In this lesson we were in a new class for the first time in just less than 2 years. I am now in a new class with people that have not yet completed their quizzes, therefore we all added improvements. For example: Mine does not accept it if you put the wrong string in and then it comes up with a string telling you to try again. 
 
 In the lesson today, I do not think I personally struggled with the work, whilst others, who were behind may have seen this in a different way. I am quite happy with the functioning of my quiz and think it is  quite good and effective, therefore I have not targets for next lesson in which I think that we will be continuing with it.
 
