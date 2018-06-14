@@ -1,5 +1,5 @@
 ---
-title: Lesson 9 New Half term
+title: Lesson 8 New Half term
 layout: post
 author: thomas.allen2
 permalink: /lesson-9-new-half-term/
