@@ -2,7 +2,7 @@
 title: Lesson 8 New Half term
 layout: post
 author: thomas.allen2
-permalink: /lesson-9-new-half-term/
+permalink: /lesson-8-new-half-term/
 source-id: 1MN6Rsndbd8Jte6cTN62z-ssLROc8eTu_zs9guhEDS_w
 published: true
 ---
