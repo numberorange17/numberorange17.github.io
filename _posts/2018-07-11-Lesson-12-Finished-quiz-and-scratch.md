@@ -13,4 +13,4 @@ This meant that I could start something else to do in the lesson. I started to e
 Next lesson, I may try another IT app, however, I seems to be too different to have a target for the next lesson.
 
 (In next lesson I continue with scratch and what I have mentioned above here.)
-
+This was my last ever IT Lesson and therefore my last ever blog.
